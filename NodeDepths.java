@@ -1,6 +1,6 @@
 class NodeDepths {
     static int depths;
-    
+
     static void nodeDepth(BinaryTree root, int level){
         depths+=level;
 
